@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Signal</string>
+    <string name="vibrate">震动</string>
 </resources>
